@@ -1,7 +1,7 @@
 # Desafio-Gemini-Alura
 Este repositório tem a finalidade de disponibilizar o trabalho final da Imersão IA Alura e Google
 
-##Buscando Hotéis adaptados para PCD
+## Buscando Hotéis adaptados para PCD
 
 Este código implementa um Chat para busca de hotéis que possuam instalações adaptadas para pessoas com deficiencia (PCD).
 
